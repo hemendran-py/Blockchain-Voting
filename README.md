@@ -2,7 +2,7 @@
 
 A secure and transparent voting system built in Solidity for the Ethereum blockchain.
 
-<img src="https://github.com/user-attachments/assets/9352d5d2-505a-4a2b-98ff-9e2af9e32978" width="200"/>
+<img src="https://github.com/user-attachments/assets/9352d5d2-505a-4a2b-98ff-9e2af9e32978" width="190"/>
 
 
 ## Features
